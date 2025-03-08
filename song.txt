@@ -1,8 +1,10 @@
 szoveg
-sor
+
 bon jovi
 ozzy
 uj sor
 masik sor
 na meg egy
 online sor
+gui proba
+végre ilyen gui is van
